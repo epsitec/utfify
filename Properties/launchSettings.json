@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "utfify": {
+      "commandName": "Project",
+      "commandLineArgs": "S:\\git\\utfify S:\\git\\rezo-dev"
+    }
+  }
+}
